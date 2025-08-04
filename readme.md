@@ -16,3 +16,15 @@ chmod +x server-stats.sh
 ```
 
 Roadmap.sh Devops Project 1 [Server Stats Project on roadmap.sh](https://roadmap.sh/projects/server-stats).
+
+### 2. `log-archive.sh`
+
+A tool to archive logs by compressing them and storing them in a new directory.
+
+**How to run:**
+
+```bash
+chmod +x log-archive.sh
+./log-archive.sh <log-directory>
+```
+
