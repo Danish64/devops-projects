@@ -28,3 +28,4 @@ chmod +x log-archive.sh
 ./log-archive.sh <log-directory>
 ```
 
+Roadmap.sh Devops Project 1 [Server Stats Project on roadmap.sh](https://roadmap.sh/projects/log-archive-tool).
